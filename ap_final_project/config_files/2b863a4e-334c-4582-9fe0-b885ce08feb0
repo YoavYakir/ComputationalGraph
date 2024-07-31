@@ -1,9 +1,0 @@
-configs.PlusAgent
-A,B
-C
-configs.IncAgent
-C
-D
-------WebKitFormBoundarymwfFF0vaB4XVFBSM
-Content-Disposition: form-data; name="configFile"; filename="simple.conf"
-Content-Type: application/octet-stream
