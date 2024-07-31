@@ -1,0 +1,18 @@
+configs.FirstIdAgent
+3-Digit-Number
+Original-Number
+configs.FirstRevAgent
+3-Digit-Number
+Flipped-Number
+configs.SubAgent
+Original-Number,Flipped-Number
+Substraction
+configs.SecIdAgent
+Substraction
+ID
+configs.SecRevAgent
+Substraction
+Flipped2
+configs.SumAgent
+ID, Flipped2
+Final-Result
